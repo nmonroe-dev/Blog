@@ -1,0 +1,8 @@
+POST http://localhost:4006/tasks
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NTkyZDNiODU4ZTk3NmQ1MzYyMjhiNiIsInVzZXJuYW1lIjoidGVzdHVzZXIiLCJpYXQiOjE3MzM4OTgyNTAsImV4cCI6MTczMzkwMTg1MH0.9uJI2USi1RwNd9OX07p1NKduOUZOJXc_9GDIidK9E4k
+{
+    "task": "Learn MERN stack"
+}
+
+
